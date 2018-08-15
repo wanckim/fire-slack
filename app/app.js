@@ -31,7 +31,7 @@ angular
             }, function(error) {
               return;
             });
-          };
+          }
         }
       })
       .state('register', {
@@ -45,7 +45,7 @@ angular
             }, function(error) {
               return;
             });
-          };
+          }
         }
       });
 
